@@ -10,7 +10,7 @@
 
 ## 🌐 Live Website URL
 
-🔗 **Live Deployment:** [https://community-web-main.vercel.app](https://community-web-main.vercel.app)
+🔗 **Live Deployment:** https://orbit-30.vercel.app/
 
 ---
 
@@ -41,7 +41,8 @@
 
 ### 💎 2. High-Contrast Starlight White & Platinum Silver UI
 - Complete elimination of muddy purple-blue hues in favor of crisp **Diamond Starlight White (#ffffff)** and **Platinum Silver (#cbd5e1)**.
-- Translucent obsidian glass cards with starlight borders (gba(255, 255, 255, 0.15)).
+- Translucent obsidian glass cards with starlight borders (
+gba(255, 255, 255, 0.15)).
 - Radiant hover states, pill chips, and glow lighting synced directly with the background cosmic particle engine.
 
 ### ⚡ 3. Dynamic Event Ecosystem
